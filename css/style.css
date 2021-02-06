@@ -1,0 +1,30 @@
+main{
+    height:100vh;
+}
+
+#viewWinner{
+    height:100vh;
+}
+
+.inputSize{
+    width: 100px;
+    height: 100px;
+    margin: 5px 5px;
+    text-align: center;
+}
+
+.img-botton{
+   background-image:  url("../img/plano-de-fundo.jpg");
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.img-winner{
+    background-image:  url("../img/fundo-de-vencedor.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+
+ .text-size{
+     font-size: 100px;
+ }
